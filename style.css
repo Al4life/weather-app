@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(day-sun-weather-app-screen-mobile-interface-design-forecast-background-time-concept-vector-banner-260952656.webp);
+}
+
+.weather-container {
+    margin-top: 50px;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
